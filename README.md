@@ -25,8 +25,8 @@ A classification project using real hotel data to predict cancellations and iden
 🔹 [Customer Churn Prediction – Telecom](https://github.com/danmca19/Telecom_Churn)  
 A machine learning pipeline using Python, pandas, and scikit-learn to predict telecom churn, with business-focused insights for customer retention strategies.
 
-🔹 [Medallion Data Architecture – dbt + Databricks](https://github.com/danmca19/Medallion_Data_Architecture)  
-Implementation of the Medallion architecture (Bronze → Silver → Gold) using dbt, Delta Lake, and SQL transformations for a modular and scalable data foundation.
+🔹 [Medallion Data Architecture – Databricks](https://github.com/danmca19/Medallion_Data_Architecture)  
+Implementation of the Medallion architecture (Bronze → Silver → Gold) using Delta Lake, and SQL transformations for a modular and scalable data foundation.
 
 ---
 
