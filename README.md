@@ -19,11 +19,13 @@ With a background in engineering and business analytics, I bring a strategic vie
 
 ## 💼 Key Projects
 
+🔹 [Customer Churn Prediction – Telecom](https://github.com/danmca19/Telecom_Churn)  
+A machine learning pipeline using Python, pandas, and scikit-learn to predict telecom churn, with business-focused insights for customer retention strategies.
+
+
 🔹 [Hotel Booking Cancellation Analysis](https://github.com/danmca19/HotelCancelations)  
 A classification project using real hotel data to predict cancellations and identify cost-saving opportunities. Business logic meets ML evaluation using accuracy, precision, recall, and F1-score.
 
-🔹 [Customer Churn Prediction – Telecom](https://github.com/danmca19/Telecom_Churn)  
-A machine learning pipeline using Python, pandas, and scikit-learn to predict telecom churn, with business-focused insights for customer retention strategies.
 
 🔹 [Medallion Data Architecture – Databricks](https://github.com/danmca19/Medallion_Data_Architecture)  
 Implementation of the Medallion architecture (Bronze → Silver → Gold) using Delta Lake, and SQL transformations for a modular and scalable data foundation.
