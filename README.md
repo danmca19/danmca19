@@ -11,7 +11,7 @@ I specialize in:
 - 📈 **Business Analytics** in B2B/B2C environments
 - 🧩 **Data pipeline orchestration** and cloud-based analytics
 - 🤝 **Cross-functional collaboration** with product, operations, and executive teams
-- 🧠 **Applied AI**, including OCR, RPA, and predictive modeling
+- 🧠 **Applied AI**, leveraging skills in OCR, RPA, and predictive modeling to deliver business solutions
 
 With a background in engineering and business analytics, I bring a strategic view to technical solutions—connecting data, processes, and impact.
 
