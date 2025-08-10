@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Daniel Antunes **Data & Analytics Professional** | **Analytics Engineer** | **DataOps Specialist**  
+# 👋 Hi there, I'm Daniel Antunes 
+**Data & Analytics Professional** | **Analytics Engineer** | **DataOps Specialist**  
 📍 Brazil | 🌍 Open to Global Opportunities 
 
 I'm a Data & Analytics professional passionate about turning complex data into actionable insights to drive business growth and operational efficiency. I've led projects across **Latin America, the U.S., Canada, the Philippines, and India**, partnering with stakeholders to deliver scalable and intelligent solutions.
