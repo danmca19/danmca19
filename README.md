@@ -36,11 +36,13 @@ With a background in engineering and business analytics, I bring a strategic vie
 -  **Objective**: To predict customer churn for proactive retention efforts.
 -  **Impact**: Potential 12% reduction in churn (~R$1.2M/year).
 
+
  
 🔹 [Hotel Booking Cancellation Analysis](https://github.com/danmca19/HotelCancelations)  
 A classification project using real hotel data to predict cancellations and identify cost-saving opportunities. Business logic meets ML evaluation using accuracy, precision, recall, and F1-score.
 -  **Objective**: To predict cancellations to optimize occupancy and revenue.
 -  **Impact**: Estimated 15% reduction in cancellations (~R$500K/year).
+
 
   
 🔹 [Medallion Data Architecture – Databricks](https://github.com/danmca19/Medallion_Data_Architecture)  
