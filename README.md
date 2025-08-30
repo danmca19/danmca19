@@ -43,7 +43,7 @@ Implementation of the **Medallion architecture** (Bronze → Silver → Gold) us
 
 
 
-[View More Projects](https://danmca19.github.io/)
+**[View More Projects 👀](https://danmca19.github.io/)**
 ---
 
 ## 🚀 **Core Beliefs & Expertise**
