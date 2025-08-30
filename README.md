@@ -41,6 +41,9 @@ Implementation of the **Medallion architecture** (Bronze → Silver → Gold) us
 - **Objective**: To structure data in layers for reliable and fast analytics.
 - **Impact**: **40% reduction**  in query time.
 
+
+
+[View More Projects](https://danmca19.github.io/)
 ---
 
 ## 🚀 **Core Beliefs & Expertise**
