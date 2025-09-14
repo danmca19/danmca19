@@ -31,6 +31,11 @@ A **machine learning pipeline** built with Python and `scikit-learn` to predict 
 - **Objective**: To predict customer churn for proactive retention efforts.
 - **Impact**: Potential **12% reduction** in churn (~R$1.2M/year).
 
+🔹 [E-Commerce Analytics Pipeline with dbt] (https://github.com/danmca19/Analytics-Project-with-dbt)
+A modern data transformation project using dbt and layered modeling (staging → intermediate → marts) to build a reliable, documented, and business-ready analytics foundation.
+- **Objective**: To transform raw e-commerce data into structured, insight-ready models for accurate business intelligence.
+- **Impact**: Automated testing reduced data validation effort by 80%.
+
 🔹 [Hotel Booking Cancellation Analysis](https://github.com/danmca19/HotelCancelations)  
 A **classification project** using real hotel data to predict cancellations and identify cost-saving opportunities. The solution evaluates performance with key ML metrics like accuracy, precision, recall, and F1-score.
 - **Objective**: To predict cancellations to optimize occupancy and revenue.
