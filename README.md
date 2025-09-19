@@ -10,17 +10,28 @@ With a background in engineering and business analytics, I bring a strategic vie
 
 ### 💻 **Skills & Technologies**
 
-**Languages & Data Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) ![DAX](https://img.shields.io/badge/-DAX-F2C811?logo=powerbi&logoColor=black)  
+Focused on building end-to-end data solutions that cover data modeling, orchestration, cloud deployment, and business intelligence for decision-making processes.  
 
-**Data Engineering & Orchestration:**  
-![Databricks](https://img.shields.io/badge/-Databricks-EF4B2C?logo=databricks&logoColor=white)  ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white)   ![DBT](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)  
+**Languages & Analytics**  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white): scripting, ETL, machine learning (pandas, scikit-learn, PySpark).  
+- ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white): statistical analysis and data visualization.  
+- ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white): relational database querying, modeling, and optimization.  
+- ![DAX](https://img.shields.io/badge/-DAX-F2C811?logo=powerbi&logoColor=black): measures, calculated columns, and time intelligence in Power BI.  
 
-**Cloud Platforms:**  
-![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)  
+**Data Engineering & Orchestration**  
+- ![Databricks](https://img.shields.io/badge/-Databricks-EF4B2C?logo=databricks&logoColor=white): big data processing, Spark-based pipelines.  
+- ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white): cloud data warehouse for analytics and scalable storage.  
+- ![DBT](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white): SQL-based transformations, testing, and lineage.  
+- ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white): workflow orchestration and scheduling.  
+- ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white): infrastructure as code for reproducible environments.  
 
-**Visualization:**  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?logo=googlestudio&logoColor=white)
+**Cloud Platforms**  
+- ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white): BigQuery, Cloud Storage, Dataflow.  
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white): S3, Glue, Athena, Lambda.  
+
+**Visualization & BI**  
+- ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black): dashboards, data models, DAX-based measures.  
+- ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?logo=googlestudio&logoColor=white): interactive dashboards, Google ecosystem integrations.  
 
 ---
 
