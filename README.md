@@ -21,7 +21,7 @@ Focused on building end-to-end data solutions that cover data modeling, orchestr
 **Data Engineering & Orchestration**  
 - ![Databricks](https://img.shields.io/badge/-Databricks-EF4B2C?logo=databricks&logoColor=white): big data processing, Spark-based pipelines.  
 - ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white): cloud data warehouse for analytics and scalable storage.  
-- ![DBT](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white): SQL-based transformations, testing, and lineage.  
+- ![DBT](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white): SQL-based transformations, data modeling, quality testing, and lineage.  
 - ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white): workflow orchestration and scheduling.  
 - ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white): infrastructure as code for reproducible environments.  
 
