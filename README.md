@@ -41,7 +41,7 @@ Focused on building end-to-end data solutions that cover data modeling, orchestr
 A modern data transformation project using dbt and layered modeling (staging → intermediate → marts) to build a reliable, documented, and business-ready analytics foundation.
 - **Objective**: To transform raw e-commerce data into structured, insight-ready models for accurate business intelligence.
 - **Impact**: Automated testing reduced data validation effort by 80%.
-- 
+
 🔹 [Customer Churn Prediction – Telecom](https://github.com/danmca19/Telecom_Churn)  
 A **machine learning pipeline** built with Python and `scikit-learn` to predict telecom churn, providing business-focused insights for customer retention strategies.
 - **Objective**: To predict customer churn for proactive retention efforts.
