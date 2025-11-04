@@ -37,26 +37,30 @@ Focused on building end-to-end data solutions that cover data modeling, orchestr
 
 ## 💼 **Key Projects**
 
-🔹 [Customer Churn Prediction – Telecom](https://github.com/danmca19/Telecom_Churn)  
-A **machine learning pipeline** built with Python and `scikit-learn` to predict telecom churn, providing business-focused insights for customer retention strategies.
-- **Objective**: To predict customer churn for proactive retention efforts.
-- **Impact**: Potential **12% reduction** in churn (~R$1.2M/year).
-
 🔹 [E-Commerce Analytics Pipeline with dbt](https://github.com/danmca19/Analytics-Project-with-dbt)
 A modern data transformation project using dbt and layered modeling (staging → intermediate → marts) to build a reliable, documented, and business-ready analytics foundation.
 - **Objective**: To transform raw e-commerce data into structured, insight-ready models for accurate business intelligence.
 - **Impact**: Automated testing reduced data validation effort by 80%.
-
-🔹 [Hotel Booking Cancellation Analysis](https://github.com/danmca19/HotelCancelations)  
-A **classification project** using real hotel data to predict cancellations and identify cost-saving opportunities. The solution evaluates performance with key ML metrics like accuracy, precision, recall, and F1-score.
-- **Objective**: To predict cancellations to optimize occupancy and revenue.
-- **Impact**: Estimated **15% reduction** in cancellations (~R$500K/year).
+- 
+🔹 [Customer Churn Prediction – Telecom](https://github.com/danmca19/Telecom_Churn)  
+A **machine learning pipeline** built with Python and `scikit-learn` to predict telecom churn, providing business-focused insights for customer retention strategies.
+- **Objective**: To predict customer churn for proactive retention efforts.
+- **Impact**: Potential **12% reduction** in churn (~R$1.2M/year).
 
 🔹 [Medallion Data Architecture – Databricks](https://github.com/danmca19/Medallion_Data_Architecture)  
 Implementation of the **Medallion architecture** (Bronze → Silver → Gold) using Delta Lake and SQL transformations to create a modular and scalable data foundation.
 - **Objective**: To structure data in layers for reliable and fast analytics.
 - **Impact**: **40% reduction**  in query time.
 
+🔹 [Hotel Booking Cancellation Analysis](https://github.com/danmca19/HotelCancelations)  
+A **classification project** using real hotel data to predict cancellations and identify cost-saving opportunities. The solution evaluates performance with key ML metrics like accuracy, precision, recall, and F1-score.
+- **Objective**: To predict cancellations to optimize occupancy and revenue.
+- **Impact**: Estimated **15% reduction** in cancellations (~R$500K/year).
+
+🔹[SCD Type 2 with Risk Segment Impact on LTV – BiqQuery and DBT]([https://github.com/danmca19/Medallion_Data_Architecture](https://github.com/danmca19/BigQuery-SCD2-LTV-Impact-Analysis))   
+A BigQuery data modeling project implementing Slowly Changing Dimensions (SCD Type 2) to track customer risk segment changes and measure their effect on Customer Lifetime Value (LTV).
+- **Objective**:  Enable historical tracking of customer risk transitions **to support smarter credit, retention, and marketing decisions**.
+- **Impact**:  Foundation for real-time risk alerts and improved LTV-based retention strategies.
 
 
 **[View More Projects 👀](https://danmca19.github.io/)**
