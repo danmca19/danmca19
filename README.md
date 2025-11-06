@@ -61,8 +61,8 @@ A **classification project** using real hotel data to predict cancellations and 
 - **Impact**: Estimated **15% reduction** in cancellations (~R$500K/year).
 
 
-🔹[SCD Type 2 with Risk Segment Impact on LTV – BiqQuery and DBT]([https://github.com/danmca19/Medallion_Data_Architecture](https://github.com/danmca19/BigQuery-SCD2-LTV-Impact-Analysis))   
-A BigQuery data modeling project implementing Slowly Changing Dimensions (SCD Type 2) to track customer risk segment changes and measure their effect on Customer Lifetime Value (LTV).
+🔹[SCD Type 2 with Risk Segment Impact on LTV – BiqQuery and DBT](https://github.com/danmca19/BigQuery-SCD2-LTV-Impact-Analysis))   
+A BigQuery **data modeling project implementing Slowly Changing Dimensions (SCD Type 2)** to track customer risk segment changes and measure their effect on Customer Lifetime Value (LTV).
 - **Objective**:  Enable historical tracking of customer risk transitions **to support smarter credit, retention, and marketing decisions**.
 - **Impact**:  Foundation for real-time risk alerts and improved LTV-based retention strategies.
 
